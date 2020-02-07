@@ -21,7 +21,7 @@ My friends and I are pretty much fans of this channel. They create really cool v
 It's always fun to see weird ideas and opinions you can get around debaters. We came up with random thoughts at the worst time ever, and sometimes even did random fueled-rage speeches in front of the team like we're going to overthrown the government. So why not facilitate and accomodate what's already been around? Besides, you'll get a compeling environment with people rallying on niche things, like banning religious studies from the curriculum. At least, their goal stays the same, to convince the adjudicators of their validity points, which in this case are the viewers.
 
 ### 3. Accidental Movie Club
-![Ferris_Bueller's_Day_Off] (https://image.businessinsider.com/542eb0e56da81138568b4569?width=1100&format=jpeg&auto=webp "Ferris Bueller's Day Off")
+![Ferris_Bueller's_Day_Off](/img/in-post/ferrisbueller.jpg "Ferris Bueller's Day Off")
 Reviewing movies can also be a fun and light exercise for critical thinking. Ask them to express their opinions on a certain movie they or all of us have watched and let's hear what the forum said about it! Agree or disagree? It can be any movie you want, pick weird movies, like The Room. An abstraction of regular movies, so the members can be as creative as they want to perceive that movie. Or, if you want to start small for the freshmen, you can start with movies which has clear genres and themes, like cyberpunk, steampunk, sci-fi.
 
 ### 4. Watch Cool Debating Videos
