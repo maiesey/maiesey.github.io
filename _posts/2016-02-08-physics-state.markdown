@@ -5,13 +5,13 @@ subtitle:   "Lots of hugs, coffee and comfort"
 date:       2016-02-08 3:50:00
 author:     "MJ"
 header-img: "img/post-bg-physics-state.jpg"
-catalog: true
+catalog: false
 tags:
     - high school
     - olympiads
     - academics
 ---
-     This is going to be a short one.
+#####  This is going to be a short one. #####
 
 After long hours of doing practice PSets and early mornings study sessions, the day finally came.
 
