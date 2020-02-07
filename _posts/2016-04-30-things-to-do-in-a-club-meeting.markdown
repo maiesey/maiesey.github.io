@@ -13,7 +13,7 @@ tags:
 I just recently took an interest toward my debating club. I've been inactive this past few months, but I finally got the entire mood and vibe running in my veins again that I am bold enough to turn this into a blog post.
 
 ### 1. Watch "Kurzgesagt" Videos
-![Kurzgesagt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencealert.com%2Fthis-video-explains-perfectly-why-crispr-really-will-change-humanity-forever&psig=AOvVaw39x3aQTkhF6egzJz7l_W1V&ust=1581191617026000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJji_vybwOcCFQAAAAAdAAAAABAD "Kurzgesagt")
+![Kurzgesagt](https://i0.wp.com/naibuzz.com/wp-content/uploads/2016/03/Kurzgesagt-In-A-Nutshell.png "Kurzgesagt")
 
 My friends and I are pretty much fans of this channel. They create really cool videos! Full with subtle animation graphics but short and to the point information delivered via voice-over. To the point we'd talked about growing up and making YouTube videos like them. Of course, when we were caught right-handed watching YouTube videos instead of case building the motions, we can simply say that we're doing "research". A valid reason, I'd say.
 
