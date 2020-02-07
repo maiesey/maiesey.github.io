@@ -5,15 +5,17 @@ subtitle:   "A recap of the (mid)year"
 date:       2015-09-14 12:00:00
 author:     "MJ"
 header-img: "img/post-bg-2015.jpg"
-catalog: true
+catalog: false
 tags:
     - high school
     - rant
+    - life experience
+    - academics
 ---
 
 > “Yeah It's on. ”
 
-They said, high school is going to be the best time of your life. Well, I don't really know what they were doing in high school that can be classified as "fun" but it's sure as hell isn't for me. Ahhh, I'm three months deep into the first semester of freshmen year and I'm already stressed. What's worse is that it doesn't come from the workload. The workload is fine, nothing too crazy, just a bunch of group projects and weeks of adapting into the new school system. But, it's the work/study environment that's really depressing.
+They said, high school is going to be the best time of your life. Well, I don't really know what they were doing in high school that can be classified as "fun" but it's sure as hell isn't for me. Ahhh, I'm three months deep into the second semester of freshmen year and I'm already stressed. What's worse is that it doesn't come from the workload. The workload is fine, nothing too crazy, just a bunch of group projects and weeks of adapting into the new school system. But, it's the work/study environment that's really depressing.
 
 A little bit of background, I'm going to graduate in 2 years, with a high school diploma. So, it's not going to be a surprised that the accelerated class is going to be very competitive. It's fun to be competitive **if it's healthy**. Well, this one surely is not. Because we need to survive chugging 3 years worth of classes into a year, a lot of students tend to cheat during exams. I was actually pretty empathetic towards them--the cheaters. I know how much pressure they were getting, since most of them are my friends too, I know how much in deep shit they are (to put it mildly). Not to mention that they *must* pass these classes otherwise they can get 'expelled' from the program. 
 
