@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "High school: to cheat or not to cheat?"
+title:      "High School: to cheat or not to cheat?"
 subtitle:   "A recap of the (mid)year"
 date:       2015-09-14 12:00:00
 author:     "MJ"
@@ -39,7 +39,7 @@ A couple of days passed, then I noticed that their behaviors toward me kind of c
 
 Then I found out that the counsel teacher didn't even do anything with their test scores. Didn't even coordinate with the subject teachers to give them a 0 or even make them fail the class. She simply just nagged at these cheaters and then spilled my name by starting her lecture with, "J told me that...". 
 
-High school is awesome, 10/10 experience, not gonna lie 😂.
+Yeah, high school is awesome, 10/10 experience, not gonna lie 😂.
 
 —— MJ 2015.09
 

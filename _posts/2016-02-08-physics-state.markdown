@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Physics olympiad: do we got in?"
+title:      "Physics Olympiad: do we get in?"
 subtitle:   "Lots of hugs, coffee and comfort"
 date:       2016-02-08 3:50:00
 author:     "MJ"
@@ -11,7 +11,7 @@ tags:
     - olympiads
     - academics
 ---
-: This is going to be a short one.
+     This is going to be a short one.
 
 After long hours of doing practice PSets and early mornings study sessions, the day finally came.
 
@@ -33,6 +33,6 @@ She then started to read aloud the names of my teammates, assigned 2nd and 3rd p
 
    You know I really wished I stayed in the maths team.
    
-   Wish me luck, until next year. 
+   Wish me luck, until next year, olympiads 🤞
 
    —— MJ 2016.02

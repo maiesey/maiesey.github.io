@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "A dillema: team physics or team maths?"
+title:      "A Dilemma: physics team or maths team?"
 subtitle:   "In which my high school 'forced' me to choose a side for the olympiads"
 date:       2015-11-23 12:00:00
 author:     "MJ"
@@ -11,7 +11,7 @@ tags:
     - olympiads
     - academics
 ---
-Not going to lie, I low-key decided to blind pick on them.
+Not going to lie, I low-key was thinking about blindly pick on them.
 
 Going into the olympiads have always been my dream ever since I started high school. They're fun, challenging and you get to learn new things your classes won't cover! (Oh and also you'll meet wonderful people!). So when my homeroom teacher told the class that they're going to hold an entrance test for students (especially freshmen) who wants to join the school's olympiad team, I know, I'm up for it. 
 
