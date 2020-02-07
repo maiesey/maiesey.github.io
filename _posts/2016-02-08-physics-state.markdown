@@ -31,7 +31,7 @@ She then started to read aloud the names of my teammates, assigned 2nd and 3rd p
 
 "Well, you don't get in." She simply replied. "You need to be placed top third to proceed to state."
 
-  You know I really wished I stayed in the maths team.
-  Wish me luck, until next year. 
+   You know I really wished I stayed in the maths team.
+   Wish me luck, until next year. 
 
-  —— MJ 2016.02
+   —— MJ 2016.02
