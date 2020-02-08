@@ -14,10 +14,12 @@ I know I complained a lot about the so-called 'education system' here in my high
 
 #### 1. Examiners On The Phone ####
 
-This is the one that I noticed the most. Teachers as examiners are supposed to be, I don't know, alert? Instead, they be playing Candy Crush on their phones. I mean I don't even care if they watch porn, as long as they (at the very least) gaze their attention, once in a while, at the students (who are explicitly exchanging answers right next to me). 🤦‍♂
+This is the one that I noticed the most. Teachers as examiners are supposed to be, I don't know, alert? Instead, they be playing Candy Crush on their phones. I mean I don't even care if they watch porn, as long as they (at the very least) gaze their attention, once in a while, at the students. Because we, are very sensitive regarding our surroundings when it comes to exam period. Glancing back and forth over the examiner. We **know** when is going to be the right time pass answers, to quitely mouthed answers to the person next to us, it's all experience.
 
 #### 2. Examiners Eating ####
-I'm in no way agaisnt them if they want to eat. But the most laughable of this all is, "I'm going to have lunch now, but I feel bad if you guys watch me as I eat, so I'm just gonna turn my chair around and eat. I believe you guys won't cheat, right?". In your dreams, Sir. Obviously you know what happened next (this school is goddamn nightmare).
+I'm in no way agaisnt them if they want to eat. But the most laughable of this all is, "I'm going to have lunch now, but I feel bad if you guys watch me as I eat, so I'm just gonna turn my chair around and eat. I believe you guys won't cheat, right?". In your dreams, Sir.
+
+Majority of the class were either giggling, muttering some words like 'huh? Is he serious?', or just flat out nodded in agreement while saying something so assuring like, 'Yes, Mr. We won't'. If there's any CCTV camera I can stare at (like Jim from The Office) and said "I told you so--" this school is a goddamn nightmare.
 
 #### 3. Computer Based Exams, But They Don't Understand How To Turn Off The Wi-Fi ####
 I mean, the title says it all I guess. It's completely laughable how these people claiming to be "Microsoft Certified" computer teachers but don't know how LAN works. It was a chemistry exam, and my country is in the brink of a new so-called 'digitalized' wave. Where exams are going to be computer-based, students will have portals, etc. I'm actually kind of against the exam one. It's so hard to do an analytical exam, in front of a computer with small desk and no free space to scribble down your calculations because the keyboard's in the way. It's just not a very positive user experience overall. Please stop adopting these new 'requirements' when your school isn't capable enough to sustain it. You'll just be giving us students an extra headache.

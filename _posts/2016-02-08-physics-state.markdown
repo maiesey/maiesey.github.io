@@ -15,7 +15,7 @@ tags:
 
 After long hours of doing practice PSets and early mornings study sessions, the day finally came.
 
-Today, is results day. Last week I did my first ever olympiad. So happy with what my team achieved. I'm feeling very positive based on the stories and how we felt about the wholesome olympiads experience though it was still city-level. One of my teammates forgot to reset her scientific calculator settings so she spent the first 15 minutes reading through the guides behind the calculator, looking for a way to access the settings menu. 
+Today, is results day. Last week I did my first ever olympiad. So happy with what my team achieved. I'm feeling very positive based on the stories and how we felt about the wholesome olympiads experience though it was still city-level. Hilariously enough, one of my teammates forgot to reset her scientific calculator settings so she spent the first 15 minutes reading through the guides behind the calculator, looking for a way to access the settings menu. 
 
 Essentially there were five essay-like problems given to us, we have exactly 3 hours to try and solve them. I was doing well for the first two problems, then I saw the third problem and realized it was my weakest unit, so I skipped that over thinking I can came back later and finish them but, well, obviously I was wrong. I ran out of time :").
 
@@ -31,8 +31,8 @@ She then started to read aloud the names of my teammates, assigned 2nd and 3rd p
 
 "Well, you don't get in." She simply replied. "You need to be placed top third to proceed to state."
 
-   You know I really wished I stayed in the maths team. Honestly, I don't know what to write anymore, I'm still pissed.
+You know I really wished I stayed in the maths team. Honestly, I don't know what to write anymore, I'm still pissed.
    
-   Wish me luck, until next year, olympiads 🤞
+Wish me luck, until next year, olympiads 🤞
 
-   —— MJ 2016.02
+—— MJ 2016.02
