@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Here We Go, PSO!"
+title:      "Provincial, Here I Come!"
 subtitle:   "In which I decided to go against my counsel teacher's words to not get involve in any Olympiad during senior year."
 date:       2017-02-23 3:50:00
 author:     "MJ"
