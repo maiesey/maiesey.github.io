@@ -11,4 +11,4 @@ This is a blog of my (probably) wholesome life journey throughout my academic ye
 
 ---
 
-#### This blog is currently still under construction. I need to resurrect old blog posts' archive from 2015-2017, redact them and repost them here. Which might take a whole day or two. Thank you for your patience 😃 ####
+##### This blog is currently still under construction. I need to resurrect old blog posts' archive from 2015-2017, redact them and repost them here. Which might take a whole day or two. Thank you for your patience 😃 #####
