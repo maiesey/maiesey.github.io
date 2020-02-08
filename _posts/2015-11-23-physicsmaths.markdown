@@ -45,4 +45,4 @@ I was really sad to leave the team, though they weren't sad to see me leave(real
 
 So currently I am in the middle of the fifth week, as I'm writing this (while also trying to work on our current PSet). Happily staying in the physics team. I just thought it would be fun to share this 'changeable' habit of mine and see it in action.
 
-—— MJ 2015.11
+— MJ 2015.11

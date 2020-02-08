@@ -37,3 +37,8 @@ You know, these teachers when they're being attacked they'd always blame it on s
 
 We weren't really panicking that much regarding this news. Because we've done our chemistry and physics practicals yesterday, so we only have to worry about biology. But none of us had studied yet. You can only imagine that after the teacher left, we all immediately grouped up to study for this accidental bio practicals. One word for this: *chaotic*.
 
+---
+
+Lastly, I just wanted to say that although I despise my school, I'm not 100% blaming them for every shitty things that has happened during my time as a student here. Because I know that we're just part of a system. A small cog, in a very large system. When things go bad, it'll all come tumbling down on us. But just because we're 'small' doesn't mean that we're dumb and can't do anything to better the system. 
+
+— MJ 2016.06

@@ -35,4 +35,4 @@ You know I really wished I stayed in the maths team. Honestly, I don't know what
    
 Wish me luck, until next year, olympiads 🤞
 
-—— MJ 2016.02
+— MJ 2016.02

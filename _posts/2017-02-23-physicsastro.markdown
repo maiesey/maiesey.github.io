@@ -44,4 +44,4 @@ My homeroom teacher is going to be very furious at me for doing this, but I'm no
 
 Oh, the things I do to get away from these other dreadful subjects. 😂
 
-—— MJ 2017.02
+— MJ 2017.02

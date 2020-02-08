@@ -33,3 +33,5 @@ I love surfing into the deep web. Not because I'm looking for something illegal 
 ### 6. The Easiest And Probably Most Fun of Them All: Bring All Of Your Card/Board Games. It's Game Night!
 ![Game_Night](/img/in-post/board-game-night.jpg "Board Game")
 There's nothing that can quite beat passing time with controversial board games (eyeing on you, Monopoly). You get the hype, others don't have to play to get hyped too. Make an accidental championship of Cards Against Humanity or anything hot right now. Besides, debaters are outside thinkers, somewhat rebels and dare to be different! Don't settle much for casual games. Be bold. Or even, *show us your dark side*
+
+— MJ 2016.02

@@ -41,6 +41,6 @@ Then I found out that the counsel teacher didn't even do anything with their tes
 
 Yeah, high school is awesome, 10/10 experience, not gonna lie 😂.
 
-—— MJ 2015.09
+— MJ 2015.09
 
 
