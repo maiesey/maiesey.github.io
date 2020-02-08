@@ -12,7 +12,7 @@ tags:
     - academics
 ---
 
-#### Re-restarting ####
+### Re-restarting ###
 Senior year is going to begin in less than a week. I'm so not ready to graduate because I feel like I still have a lot of goals that I still haven't achieved in high school. One of them was (at least) getting through to state-level olympiad. So, I insisted on re-taking the entrance exam into the olympiad school team. I was thinking about taking a much more applicable field this year, so more things like computing and astronomy rather than pure sciences. But since astronomy is a relatively new subject for my school, they're going to join the physics team for a while (not to mention the materials are also kind of similar).
 
 Thinking that it'd be fun to try out this new subject which I never realized actually existed on a high school level, I decided to take the entrance exam for the olympiad team. When the result finally came out, I was surprised that there were only three other students that were accepted. Still have no idea why, although I have a couple guesses. 
@@ -29,7 +29,7 @@ Overall, I answered around 25 questions and all of the essay-based questions. Wi
 
 My teammates were already waiting for me outside the classroom, and we went to Indomaret to buy snacks. We also chatted about the overall experience of cramming the previous night and being overly anxious surrounding the rumour that we weren't going to be allowed to use scientific calculator. It was such a stress-reliever to chat over our common anxieties regarding the olympiad, knowing that there are other people out there who's also experiencing the same feeling as me!
 
-#### Results Day And Other Reactions ####
+### Results Day And Other Reactions ###
 Results Day is always scary. You'll never know what you're going to get. I'm very very anxious especially remembering that I have that little 'deal' with my biology teacher. I have to, I must get through this time. Otherwise I'm going to fail my biology. 
 
 It was a late saturday afternoon, I woke up around 11AM and decided to listen to lound banging music in my room to press on my ever-so-slightly growing anxiety. Since the results came in on Saturday and we have no classes on Saturday except maybe some club activities, the teacher decided that he's going to be the one who'll call us when the results came in. So, obviously, I glared at my phone multiple times like a person with OCD, sitting awkwardly in front of my laptop, fingers fidgeting.
