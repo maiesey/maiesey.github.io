@@ -8,5 +8,7 @@ This is a blog of my (probably) wholesome life journey throughout my academic ye
 **So sit back, enjoy and hopefully you'll find these stories either funny or useful.** 
 
 (or neither, doesn't matter as long you enjoy them) ✌️
+
 ---
+
 #### This blog is currently still under construction. I need to resurrect old blog posts' archive from 2015-2017, redact them and repost them here. Which might take a whole day or two. Thank you for your patience 😃 ####
