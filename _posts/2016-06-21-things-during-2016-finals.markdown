@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Bizarre Things That Happened During My 2016 Finals"
+title:      "5 Bizarre Things That Happened During My 2016 Finals"
 subtitle:   "More reasons to hate my school ✌️"
 date:       2016-06-21 12:00:00
 author:     "MJ"
