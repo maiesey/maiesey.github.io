@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Best Parts of Astronomy Olympiad Training Camp"
-subtitle:   ""
+subtitle:   "Pranks and energy drinks aside..."
 date:       2017-03-11 3:50:00
 author:     "MJ"
 header-img: "img/post-bg-astro.jpg"
