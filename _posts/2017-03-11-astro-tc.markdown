@@ -2,7 +2,7 @@
 layout:     post
 title:      "Best Parts of Astronomy Olympiad Training Camp"
 subtitle:   ""
-date:       2017-02-23 3:50:00
+date:       2017-03-11 3:50:00
 author:     "MJ"
 header-img: "img/post-bg-astro.jpg"
 catalog: true
@@ -55,4 +55,4 @@ Obviously they're the weird ones. But, it's fun because we get to make memes out
 ---
 As I'm writing this, I'm still on the last week of training camp. Meaning one week before Nationals! So, there might be some updates or new additions to this list. 
 
-*UPDATE:* I'm happy that this list still stands against the flow of time. Results just came in and I placed 3rd in Theoretical, 5th in Practicals and 4th in Observation; which placed me in 4th Overall rank in Nationals 🎊. Sad that I can't go to Internationals but then again, I have national examinations closing in and no matter how much I hate exams I have to graduate too 😂.
+**UPDATE:** I'm happy that this list still stands against the flow of time. Results just came in and I placed 3rd in Theoretical, 5th in Practicals and 4th in Observation; which placed me in 4th Overall rank in Nationals 🎊. Sad that I can't go to Internationals but then again, I have national examinations closing in and no matter how much I hate exams I have to graduate too 😂.
