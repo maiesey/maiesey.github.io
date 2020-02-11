@@ -32,4 +32,15 @@ This started a chain of reaction. I met a lot of people when I joined and became
 So, once you have something you like about, find a community (online or offline). Learn and grow from them. It's fun to have companion(s) as you progress!
 
 ### 3. Sleep Deprivation Is Cool (But Not Really)
-My first game jam was a 72-hour game jam. You know what that means? Aye, living on instant ramen and 30 minutes naps of course. It wasn't the best game jam, to be honest. I learned from that experience that team-picking is very essential to every competition. If your team is not 'fit' enough, you can't--or it'll be hard to--get the best outcome you imagined. 
+My first game jam was a 72-hour game jam. You know what that means? Aye, living on instant ramen and 30 minutes naps of course. It wasn't the best game jam, to be honest. I learned from that experience that team-picking is very essential to every competition. If your team is not 'fit' enough, you can't--or it'll be hard to--get the best outcome you imagined. It's like relay racing, if you can imagine. Or basketball, for easy reference.
+
+And because it wasn't the best team I imagined, I had to do extra works. Turned out, I was the only programmer in the team so you can only imagine me coding for nearly 72 hours, non-stop. Not gonna lie, it was my very first brush off with JavaScript so nearly 60% of the time I spent staring, frowning, glaring at my screen--is just to read the documentations or reading answers from Stackoverflow.
+
+I slept only for 2-3 hours for three consecutive days. You know, when you're already in the flow of doing something, you just loose track of time. We got 10th out of 20. Pretty good, if I do say so myself. I came out of that game jam moody, mad (at my team, mostly lol), dazed and thought it was 4PM when in fact it was 6AM. I had a class at 3PM that day (thank the Lord). I got home and slept like a baby until it was 1PM.
+
+I've seen a lot of students pulling off all-nighters and brag about it in the morning while sipping a cup of Starbucks' coffee. It's chique, cool and all. But really, who are we kidding? It's proven to be unhealthy, increases a lot of health risks and you'll end up feeling like a different person altogether (no thoughts, head empty kinda feeling)--which by the way isn't the best mood for learning pretty much anything. So, break up your tasks into chunky pieces, finish those essays earlier, do those PSets, get your sleep. Soon, work-life balance will follow.
+
+~~Why do I sound like a yoga instructor~~~
+
+### 4. Getting Close To Your Professors Is Essential
+No matter how much you despise your professors. Just, try and act like you care for their classes. Because really, if you don't care about them, they won't give any f about you either. At the bare minimum, nod as an expression that you understand something they were saying, asking a couple of questions (if not frequently), try to take the front row seats and other small little things to get you 'noticed' by the professors. But please don't make a fool of yourself by asking sily questions. At the same time, don't be afraid to ask! If you can't think of a question while class is still in session, ask for your prof's contact and schedule a small Q&A session during office hours.
