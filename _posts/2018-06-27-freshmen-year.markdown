@@ -29,3 +29,7 @@ Halfway through my first semester I became bored. Like, really-really bored. It'
 
 This started a chain of reaction. I met a lot of people when I joined and became actively involved in clubs and in volunteering. Apparently, some of the people I know from there are also interested in the same things as I am. So we became good friends. The next thing I remember was us creating a discord channel and a slack workspace for all of us to stay connected and up to date with projects we're working on (if we can help each other). Then, we began attending every developer festivals, jams, talkshows, hackathons together. Some of my close good friends are actually really smart, but don't get intimidated--see that as an opportunity to learn from them!
 
+So, once you have something you like about, find a community (online or offline). Learn and grow from them. It's fun to have companion(s) as you progress!
+
+### 3. Sleep Deprivation Is Cool (But Not Really)
+My first game jam was a 72-hour game jam. You know what that means? Aye, living on instant ramen and 30 minutes naps of course. It wasn't the best game jam, to be honest. I learned from that experience that team-picking is very essential to every competition. If your team is not 'fit' enough, you can't--or it'll be hard to--get the best outcome you imagined. 
