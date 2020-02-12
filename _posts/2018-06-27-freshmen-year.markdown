@@ -53,3 +53,19 @@ Although people like to be seen as 'Tough', 'Strong' and 'Independent' --there'l
 Never let these depressing feelings piled up inside you. Do I even need to stress you out about how unhealthy that is? Go meet your best friend and talk for hours over coffee or tea. Feeling like you want to cry? Well, probably talk somewhere more private like in your room, their dorms or just through phone calls. 
 
 Do anything you feel like will help you feel better! It's all going to work out in the end. 💕
+
+### 6. Peer Pressure Is Real, Don't Let Them Tell You Otherwise
+This is what really bothers me the most, but frankly, I never quite understand the feeling I was feeling. Whenever my friends asked me out to hangout, there's always this FOMO feeling creeping up on me. 
+
+Afraid that my friends won't ask me out again (ever), because I said 'no' to them once. Afraid that they're going to think that I am this 'uncool' person because I don't like to hang out. And so on...
+
+But when I decided that I'll come with them, I almost always regret it immediately. They go to restaurants that are very expensive--from my point of view. Do understand that I go to a private college, where most of the students came from a wealthy/financially capable families. At this point, it shouldn't be a surprised that they'd go to these kind of places. 
+
+My expenses sky-rocketed in the first two months of the first semester. At that time, I know I'm wasting my money on something that could've been a whole lot cheaper. I'm not saying that you should always go with the cheapest. We all know the prices never lie. If you need something that'll last the long run, go with quality, and best quality doesn't come cheap. But I don't want to be left out, so I started buying small things like groceries with the highest price, my stationaries become more pricey and *pricey*.
+
+As their friend, I feel *obliged* to follow their lifestyle to fit in. This is where I was **wrong**. You don't have to. If they don't want to be friends with you because your bags and clothes aren't Gucci, they don't deserve you. It's that simple. 
+
+---
+
+Congratulations for reaching the end of the blog post! I'm currently in the middle of a so-so 'summer break'. A moving car isn't really the best place to type, so sorry if there's any typos or my train of thoughts seems scrambled 😝. Hope you enjoy this post and see you whenever!
+
