@@ -4,7 +4,7 @@ title:      "TV Shows Masterlist"
 subtitle:   "Lists of TV-Shows I love or I'm currently watching!"
 date:       2019-09-06 3:50:00
 author:     "MJ"
-header-img: "img/bg-tv-shows.jpg"
+header-img: "/img/bg-tv-shows.jpg"
 catalog: true
 tags:
     - list
