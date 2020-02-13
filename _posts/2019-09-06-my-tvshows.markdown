@@ -24,7 +24,7 @@ I started watching this because I started reading Thomas Harris in high school. 
 
 ### 2. Sherlock BBC (2010 - 2017)
 
-![Sherlock BBC](img/in-post/tv-shows/sherlock.jpg)
+![Sherlock BBC](/img/in-post/tv-shows/sherlock.jpg)
 
 This show is the reason why I know and love Benedict Cumberbatch. Back then in 2010, internet is something that's a luxury to have. Since my parents are those type of boomers who always see technology as a bad influence (because my brother and I love gaming too much), we didn't really have proper internet connection until around 2013. 
 
@@ -34,7 +34,7 @@ But I gave it a try anyway and look at where I am now
 
 ### 3. Peaky Blinders (2013 - Present)
 
-![Peaky Blinders](img/in-post/tv-shows/peaky-blinders.jpg)
+![Peaky Blinders](/img/in-post/tv-shows/peaky-blinders.jpg)
 
 Gonna be real honest, I don't really like this show when I first watched it back in 2013. Maybe, my likeness towards crime drama hadn't really peaked back then. But, I revisited Peaky Blinders some time around 2016 and I'm loving it! They have really compeling characters, and the directing is really good too.
 
@@ -44,7 +44,7 @@ At that time, I was really sure that, if given the chance, I can run a 1910s gan
 
 ### 4. Rick And Morty (2013 - Present)
 
-![Rick And Morty](img/in-post/tv-shows/rickmorty.jpg)
+![Rick And Morty](/img/in-post/tv-shows/rickmorty.jpg)
 
 Well, this one, really is something. I watched the show because around 2015, it somehow becomes really popular. Suddenly people are talking about it (probably because of the weird and low-key crazy fans). So I gave it a shot too, and I FREAKING LOVE IT. 
 
@@ -52,7 +52,7 @@ Partially because Rick and Morty's adventures are really just full of surprises,
 
 ### 5. Mindhunter (2017 - Present)
 
-![Mindhunter](img/in-post/tv-shows/mindhunter.jpg)
+![Mindhunter](/img/in-post/tv-shows/mindhunter.jpg)
 
 ### 6. Altered Carbon (2018 - Present)
 
