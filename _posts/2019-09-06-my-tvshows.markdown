@@ -4,7 +4,7 @@ title:      "TV Shows Masterlist"
 subtitle:   "Lists of TV-Shows I love or I'm currently watching!"
 date:       2019-09-06 3:50:00
 author:     "MJ"
-header-img: "img/bg-freshmen-year.jpg"
+header-img: "img/bg-tv-shows.jpg"
 catalog: true
 tags:
     - list
@@ -61,3 +61,7 @@ No, for real, it's the story about two FBI agents (Bill and Holden). You could s
 ### 6. Altered Carbon (2018 - Present)
 
 ![Altered Carbon](img/in-post/tv-shows/alteredcarbon.jpg)
+
+Like I said, I'm a huge nerd for Sci-Fi stuff. Altered Carbon is one of those Netflix shows that you just stumbled upon and then you thought, 'hmm, it's pretty good'. So I added it on the list; though I found myself bored a couple of times in the middle of season 1.
+
+I'd say, if you love things like Blade Runner 2049, Ghost In The Shell, you'll like the vibe this show's giving you off. It has a really unique main plot and the cyberpunk world building is pretty good too.

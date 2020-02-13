@@ -4,7 +4,7 @@ title:      "Sophomore Year: Here's To Growth"
 subtitle:   "Recap of my Sophomore Year"
 date:       2019-07-28 3:50:00
 author:     "MJ"
-header-img: "img/post-bg-astro.jpg"
+header-img: "img/bg-sophomore.jpg"
 catalog: true
 tags:
     - college
