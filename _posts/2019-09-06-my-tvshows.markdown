@@ -16,7 +16,7 @@ Well this is a different type of post altogether. Ever since college started, cl
 
 ### 1. Hannibal NBC (2013 - 2015)
 
-![NCB Hannibal](img/in-post/tv-shows/hannibal.jpg)
+![NCB Hannibal](/img/in-post/tv-shows/hannibal.jpg)
 
 I don't really know how much Hannibal TV Shows out there, but to avoid confusion, I'm still going to clarify that it's NBC's Hannibal. It's everything I love in one show: hot men (woohoo), compelling characters, mysteries, killings (not saying that I love killing) and obviously superbly written stories!
 
