@@ -60,7 +60,7 @@ No, for real, it's the story about two FBI agents (Bill and Holden). You could s
 
 ### 6. Altered Carbon (2018 - Present)
 
-![Altered Carbon](img/in-post/tv-shows/alteredcarbon.jpg)
+![Altered Carbon](/img/in-post/tv-shows/alteredcarbon.jpg)
 
 Like I said, I'm a huge nerd for Sci-Fi stuff. Altered Carbon is one of those Netflix shows that you just stumbled upon and then you thought, 'hmm, it's pretty good'. So I added it on the list; though I found myself bored a couple of times in the middle of season 1.
 
