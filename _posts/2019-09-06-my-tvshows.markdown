@@ -90,4 +90,8 @@ This show is really rich with good character arcs and plot-twists. Obviously, wo
 
 The story follows a man named Harold (the cinnamon roll), who's a genius programmer working on a program we referred throughout the show as 'The Machine'. The Machine 'spits out' social security numbers of people who can be either victims or perpetrators. We won't know until John (the anime-dad starter pack), an ex-CIA agent also presumed dead by the entire world, hired by Harold to investigate these numbers: are they the victims or the perpetrators? Sounds hella simple, until your main characters got tangled with the mafia, secret organizations even the government hunting them down to steal The Machine. (God, I'm spoiling too much things, aren't I?).
 
+---
+
+That's all I have for the list! Have fun discovering new shows which can possibly be your next favorite too. I might add new shows as I go along because frankly, I don't really remember how much shows I love since most of them are finished already. Cheers!
+
 
