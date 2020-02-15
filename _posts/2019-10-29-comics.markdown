@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Anthony ~~Goddamn~~ Stark"
+subtitle:   "Somehow a post about me and my addiction to this dude."
+date:       2019-10-29 3:50:00
+author:     "MJ"
+header-img: "/img/bg-tv-shows.jpg"
+catalog: true
+tags:
+    - rant
+    - hobbies
+---
+Now if any of you know me in real life, my favorite Avengers will always be the easiest question to answer. It's Tony Stark, a.k.a. Iron Man. How exactly I got here is rather a long story. 
