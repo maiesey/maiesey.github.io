@@ -74,9 +74,11 @@ I'd say, if you love things like Blade Runner 2049, Ghost In The Shell, you'll l
 
 ### 7. The Young Pope (2016) / The New Pope (2020)
 
-![Altered Carbon](/img/in-post/tv-shows/theyoungpope.jpeg)
+![The Young Pope](/img/in-post/tv-shows/theyoungpope.jpeg)
 
-This one is just...aghh!! Very controversial. But, at least Sorrentino's back at it again with nother unique and one of a kind directing. I want to say that I love this, but then my religious parents might *whip* me with a belt. Because this show cannot be enjoyed by someone who's strictly religious. There are so many controversial, out of the box things that they did with the show which will make your brain goes: "?????". So, you really do need an open mind (a very open one) to watch this, enjoy and not get salty (it's a fictional work, get over it). 
+This one is just...aghh!! Very controversial. But, at least Sorrentino's back at it again with another unique and one of a kind directing. I want to say that I love this, but then my religious parents might *whip* me with a belt. Because this show cannot be enjoyed by someone who's strictly religious (like my parents). There are so many controversial, out of the box things that they did with the show which will make your brain goes: "?????". So, you really do need an open mind (a very open one) to watch this, enjoy and not get salty (it's a fictional work, get over it). 
 
-Obviously this show is heavy-loaded with a lot of Catholic's cultures, rituals, and christianity teachings. But I guess the show is trying to teach us how these really ancient wisdoms hold up in our modern world and current society through scenarios/events that happened throughout the show.
+Obviously this show is heavy-loaded with a lot of Catholic's cultures, rituals, and christianity teachings. But I guess the show is trying to teach us how these really ancient wisdoms hold up in our modern world and current society through scenarios/events that happened throughout the show. Again, I repeat you need to be at least a chill-but-religious christian to enjoy the show. Believe me, I accidentally made my dad watched *a fraction* of one episode and he immediately left while saying: "that was one weird-as-hell movie you're watching".
+
+### 8. 
 
