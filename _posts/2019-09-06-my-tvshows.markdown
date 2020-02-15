@@ -82,7 +82,12 @@ Obviously this show is heavy-loaded with a lot of Catholic's cultures, rituals, 
 
 ### 8. Person Of Interest (2011 - 2016)
 
-![Person Of Interest](/img/in-post/tv-shows/alteredcarbon.jpg)
+![Person Of Interest](/img/in-post/tv-shows/poi.jpg)
 
-Gotta be honest, this show is what got me interested into programming and computer science in the first place. Not that I instantly started coding after watching this, but it was the first time I saw programming as something *cool*.
+Gotta be honest, this show is what got me interested into programming and computer science in the first place. Not that I instantly started coding after watching this, but it was the first time I saw programming as something *cool* and useful instead of something that's abstract, nerdy and out of my world. Kudos to J.J. Abrams and the writers for ending this show with a really good, acceptable and **respectable** final act, not like some finales (eyeing on you, Avengers: Endgame).
+
+This show is really rich with good character arcs and plot-twists. Obviously, wouldn't be effective if they don't have a strong main plot in the first place. It merged the danger and the power of computer programs/cyber security in a very beautiful way. People without programming background can easily understand the consequences of each events related to the main plot without getting into too much technical details. 
+
+The story follows a man named Harold (the cinnamon roll), who's a genius programmer working on a program we referred throughout the show as 'The Machine'. The Machine 'spits out' social security numbers of people who can be either victims or perpetrators. We won't know until John (the anime-dad starter pack), an ex-CIA agent also presumed dead by the entire world, hired by Harold to investigate these numbers: are they the victims or the perpetrators? Sounds hella simple, until your main characters got tangled with the mafia, secret organizations even the government hunting them down to steal The Machine. (God, I'm spoiling too much things, aren't I?).
+
 
