@@ -9,6 +9,7 @@ catalog: true
 tags:
     - rant
     - hobbies
+    - marvel
 ---
 Now if any of you know me in real life, my favorite Avengers will always be the easiest question to answer. It's Tony Stark, a.k.a. Iron Man. How exactly I got here is rather a long story, but since I got a blog to mediate it, I'm going to do it. Tracing back into my own timeline. 
 
