@@ -20,48 +20,63 @@ Well this is a different type of post altogether. Ever since college started, cl
 
 I don't really know how much Hannibal TV Shows out there, but to avoid confusion, I'm still going to clarify that it's NBC's Hannibal. It's everything I love in one show: hot men (woohoo), compelling characters, mysteries, killings (not saying that I love killing) and --obviously--superbly written stories! ~~Did I mention romantic attraction between main characters?~~
 
-I started watching this because I started reading Thomas Harris in high school. I know about Hannibal because of Anthony Hopkins' legendary performance, other than that, I know absolutely nothing about who Hannibal is except the fact that --well, he is a cannibal. Reading the books give me deeper insights on who he is, without me realizing I started liking his character arc. Then my friends on Tumblr started telling me about this one show I have to watch if I love Hannibal. Ta daa~
+I started watching this because I began reading Thomas Harris during high school. I know a tiny bit about Hannibal because of Anthony Hopkins' legendary performance, other than that, I know absolutely nothing about who Hannibal is except the fact that --well, he is a cannibal. Reading the books have given me deeper insights on who he is, and without me realizing--I started liking his character arc. Then my friends on Tumblr started encouraging me to watch this version of Hannibal. Boy, oh boy, I do love it.
+
+Though the show had ended, I still re-watch this masterpiece over and over. It never stops to amaze me.
 
 ### 2. Sherlock BBC (2010 - 2017)
 
 ![Sherlock BBC](/img/in-post/tv-shows/sherlock.jpg)
 
-This show is the reason why I know and love Benedict Cumberbatch. Back then in 2010, internet is something that's a luxury to have. Since my parents are those type of boomers who always see technology as a bad influence (because my brother and I love gaming too much), we didn't really have proper internet connection until around 2013. 
+This show is the reason why I know and love Benedict Cumberbatch. Back then, in 2010, internet is something that's luxurious. Since my parents are those type of boomers who always see technology as a bad influence (because my brother and I love gaming too much), we didn't really have proper internet connection until around 2013. 
 
-I discovered social media that year, and so I became connected with friends all over the world through Twitter. I met people with the same interests as I am, it's honestly so cool! Soon a lot of my internet friends told me to watch Sherlock BBC. I was really skeptical at first, because I'm a huge fan of Doyle's version of Sherlock Holmes and what BBC did in this show are basically breaking the barriers. 
+I discovered social media that year, and so I became connected with friends all over the world through Twitter. Soon a lot of my internet friends told me to watch Sherlock BBC. I was really skeptical at first, because I'm a huge fan of Doyle's version of Sherlock Holmes and what BBC did in this show are basically breaking the barriers. 
 
-But I gave it a try anyway and look at where I am now. When they ended the show in 2017 with its 4th season, I was devastated. I love this show so much I actually streamed BBC at 2AM WIB, just so I don't have to wait for the DVD to be released in Indonesia (it was school night). Oh, the things I do for Sherlock.
+But I gave it a try anyway and look at where I am now. When they ended the show in 2017 with its 4th season, I was devastated. I love this show so much I actually streamed BBC at 2AM WIB (it was school night). Oh, the things I do for Sherlock.
 
 ### 3. Peaky Blinders (2013 - Present)
 
 ![Peaky Blinders](/img/in-post/tv-shows/peaky-blinders.jpg)
 
-Gonna be real honest, I don't really like this show when I first watched it back in 2013. Maybe, my likeness towards crime drama hadn't really peaked back then. But, I revisited Peaky Blinders some time around 2016 and I'm loving it! They have really compeling characters, and the directing is really good too.
+Gonna be real honest, I didn't really like this show when I first watched it back in 2013. Maybe, my likeness towards crime drama hadn't really peaked back then. But, I revisited Peaky Blinders some time around 2016 and now I'm onboard their ship! They have really compeling characters, and unique directing too! There are moments that just felt so close and relatable to me but so far (because my family doesn't run an illegal business, duh). 
 
-The world building wowed me so much (not to mention that this is based on a true story). At that time, I was really sure that, if given the chance, I know how to run a 1910s gangster-family business because of this show. Though there are times where I got a little bit *kinky* in the show. (Please don't attack).
+The world building wowed me so much too, and coincidental enough, I was really into Sherlock BBC at that time. Looking back at what 1910s/1920s England looked like, really gives off Doyle's Sherlock vibe--which I missed a lot, since Sherlock BBC is way more anchored into the modern world.
 
-~~P.S. I LOVE CILLIAN MURPHY SO MUCH. IT HURTS~~
+Overall though, I really like the fact that there's always going to be lots of surprising turns of events in the show. And their good character writing helps a lot in creating better characters' arcs, hence making the show more intriguing and fun to follow than ever.
+
+~~P.S. I LOVE CILLIAN MURPHY SO MUCH. HELP~~
 
 ### 4. Rick And Morty (2013 - Present)
 
 ![Rick And Morty](/img/in-post/tv-shows/rickmorty.jpg)
 
-Well, this one, really is something. I watched the show because around 2015, it somehow becomes really popular. Suddenly people are talking about it (probably because of the weird and low-key crazy fans). So I gave it a shot too, and I FREAKING LOVE IT. 
+Well, this one, really is something. The reason I watched the show was because: around 2015, it somehow becomes really popular (?). Suddenly people are talking about it (probably because of their weird and low-key crazy fans). So I gave it a shot too, and boohoo, I'm part of the fandom now. 
 
-Partially because Rick and Morty's adventures are really just full of surprises, so you're always going to see weird-ass things that just blows your mind. Really proves that the writers are really good at world-building! Also, I consider myself a nerd for sci-fi. So when there's a show specifically about sci-fi like this, I'm naturally attracted to it!
+Because Rick and Morty's adventures are really just full of surprises, so you're always going to see a lot of weird-ass things that just blows your mind. Really proves that the writers are really good at world-building! Not to mention that it's funny--though sometimes it gets deep; even goes f*cking **meta**--and easy to follow. Also, I consider myself a nerd for sci-fi. So when there's a show specifically about sci-fi like this, I'm naturally attracted to it!
 
 ### 5. Mindhunter (2017 - Present)
 
 ![Mindhunter](/img/in-post/tv-shows/mindhunter.jpg)
 
-David Fincher is my favorite director. I consider him one of the best mystery/crime/thriller directors. So when I heard that he's going to direct some episodes of Mindhunter, I became curious about what Mindhunter is. Turns out, it's the real life version of Hannibal NBC. HAHAHA.
+David Fincher is one of my favorite directors. I consider him one of the best mystery/crime/thriller directors. So when I heard that he's going to direct some episodes of Mindhunter, I became curious about what Mindhunter is. Turns out, it's the real life version of Hannibal NBC. HAHAHA.
 
-No, for real, it's the story about two FBI agents (Bill and Holden). You could say, they're some of the key players that make FBI's Behavioural Science Unit (BSU) exists today; and surprise-surprise, Will Graham (from Hannibal NBC) is also from BSU. Exactly what they do in BSU? They're investigating criminals' train of thought, and it goes so much deeper than just that. I always love shows surrounding criminal psychology. :D
+No, for real, it's the story about two FBI agents (Bill and Holden). You could say that they're two of the key players who enabled FBI's Behavioural Science Unit (BSU) to be established in the first place; and surprise-surprise, Will Graham (from Hannibal NBC) is also from BSU. 
+
+Exactly what do they do in BSU? They're investigating criminals' train of thought, and it goes so much deeper than just that. It's thrilling and bone-chilling to see them investigating murderers, rapers, etc. See what things they can dig out to *understand* more of why these criminals did what they did--and how their findings affect people's understandings toward crime-leading tendencies. Plus, I always love shows surrounding criminal psychology. :D
 
 ### 6. Altered Carbon (2018 - Present)
 
 ![Altered Carbon](/img/in-post/tv-shows/alteredcarbon.jpg)
 
-Like I said, I'm a huge nerd for Sci-Fi stuff. Altered Carbon is one of those Netflix shows that you just stumbled upon and then you thought, 'hmm, it's pretty good'. So I added it on the list; though I found myself bored a couple of times in the middle of season 1.
+Like I said, I'm a huge nerd for Sci-Fi stuff. Altered Carbon is one of those Netflix shows that you just stumbled upon and then you thought, 'hmm, it's pretty good'. So I added it on the list; though I found myself bored a couple of times in the middle of season 1; but Anthony Mackie is going to join on board for Season 2 as Takeshi, so I'm excited to see how it turns out!
 
-I'd say, if you love things like Blade Runner 2049, Ghost In The Shell, you'll like the vibe this show's giving you off. It has a really unique main plot and the cyberpunk world building is pretty good too.
+I'd say, if you love things like Blade Runner 2049, Ghost In The Shell, you'll like the vibe this show's giving you. It has a really unique, low-key weird and crazy main plot (like any cyberpunk stories). Plus, the cyberpunk world building is pretty good too (though the VFX aren't really that *juicy*--if you know what I mean).
+
+### 7. The Young Pope (2016) / The New Pope (2020)
+
+![Altered Carbon](/img/in-post/tv-shows/theyoungpope.jpeg)
+
+This one is just...aghh!! Very controversial. But, at least Sorrentino's back at it again with nother unique and one of a kind directing. I want to say that I love this, but then my religious parents might *whip* me with a belt. Because this show cannot be enjoyed by someone who's strictly religious. There are so many controversial, out of the box things that they did with the show which will make your brain goes: "?????". So, you really do need an open mind (a very open one) to watch this, enjoy and not get salty (it's a fictional work, get over it). 
+
+Obviously this show is heavy-loaded with a lot of Catholic's cultures, rituals, and christianity teachings. But I guess the show is trying to teach us how these really ancient wisdoms hold up in our modern world and current society through scenarios/events that happened throughout the show.
+
