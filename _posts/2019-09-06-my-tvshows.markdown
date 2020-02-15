@@ -10,13 +10,15 @@ tags:
     - list
     - hobbies
 ---
-Well this is a different type of post altogether. Ever since college started, classes aren't always exactly 7 - 5. I always have some free time here and there, squeezed in between classes. I spent most of them watching cool shows which either: a) I accidentally stumbled upon them or b) I actually like them. Here's a list (not in any particular order) of TV-Shows which I craved a lot:
+Well this is a different type of post altogether. Ever since college started, classes aren't always exactly 7 - 5. I always have some free time here and there, squeezed in between classes. Those are the perfect time to also squeeze in one or two episodes of my favorite shows!
 
-(Beware: things might get long and weird at times)
+So, here's a list (not in any particular order) of TV-Shows which I craved a lot. Because I want to always remember them (or put them in a list, in this case) so I can have some angsty nostalgia, 20 years in the future:
+
+(Beware: things might get long and weird)
 
 ### 1. Hannibal NBC (2013 - 2015)
 
-![NCB Hannibal](/img/in-post/tv-shows/hannibal.jpg)
+![NBC Hannibal](/img/in-post/tv-shows/hannibal.jpg)
 
 I don't really know how much Hannibal TV Shows out there, but to avoid confusion, I'm still going to clarify that it's NBC's Hannibal. It's everything I love in one show: hot men (woohoo), compelling characters, mysteries, killings (not saying that I love killing) and --obviously--superbly written stories! ~~Did I mention romantic attraction between main characters?~~
 
