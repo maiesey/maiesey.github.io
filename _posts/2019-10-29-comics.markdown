@@ -4,7 +4,7 @@ title:      "Comics, Comics And More Comics"
 subtitle:   "Comics which hold a special place in my heart"
 date:       2019-10-29 3:50:00
 author:     "MJ"
-header-img: "/img/bg-tv-shows.jpg"
+header-img: "img/bg-comics.jpg"
 catalog: true
 tags:
     - hobbies
