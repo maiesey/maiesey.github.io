@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "TV Shows Masterlist"
-subtitle:   "Lists of TV-Shows I love or I'm currently watching!"
-date:       2019-09-06 3:50:00
+title:      "Comics, Comics And More Comics"
+subtitle:   "Comics which hold a special place in my heart"
+date:       2019-10-29 3:50:00
 author:     "MJ"
-header-img: "/img/bg-tv-shows.jpg"
+header-img: "img/bg-comics.jpg"
 catalog: true
 tags:
-    - list
     - hobbies
+    - list
 ---
 Well this is a different type of post altogether. Ever since college started, classes aren't always exactly 7 - 5. I always have some free time here and there, squeezed in between classes. Those are the perfect time to also squeeze in one or two episodes of my favorite shows!
 
@@ -95,5 +95,3 @@ The story follows a man named Harold (the cinnamon roll), who's a genius program
 ---
 
 That's all I have for the list! Have fun discovering new shows which can possibly be your next favorite too. I might add new shows as I go along because frankly, I don't really remember how much shows I love since most of them are finished already. Cheers!
-
-
