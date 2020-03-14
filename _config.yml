@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mariajeffina@gmail.com
 description: ""
 keyword: ""
-url: "https://starkydev.github.io"              # your host, for absolute URL
+url: "https://mjee1.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,8 +15,8 @@ future: true
 RSS: false
 # weibo_username:     huxpro
 # zhihu_username:     huxpro
-github_username:    starkydev
-twitter_username:   deathpoets
+github_username:    mjee1
+twitter_username:   mjee551
 #facebook_username:  huxpro
 linkedin_username:  mariajeffina
 
@@ -71,13 +71,13 @@ kramdown:
 
 # Google Analytics
 ga_track_id: 'UA-157997279-1'            # Format: UA-xxxxxx-xx
-ga_domain: starkydev.github.io
+ga_domain: mjee1.github.io
 
 
 
 # Sidebar settings
 sidebar: true                          
-sidebar-about-description: "Self-learning Software and Electrical engineer. UI/UX and Machine Learning fangirl. Occasionally an artist. A developer who loves Snickers + Yakult and plays too much The Sims."
+sidebar-about-description: "Self-learning developer and engineer. UI/UX, Machine Learning and games enthusiast. Occasionally an artist. A programmer who loves Snickers and plays The Sims a lot."
 sidebar-avatar: /img/mariajeffina.png   
 
 
