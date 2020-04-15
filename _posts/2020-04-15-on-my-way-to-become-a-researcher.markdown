@@ -38,4 +38,10 @@ Embrace them.
 This step is probably going to be that one moment you'll always remember when you look back at the process. Tell yourself that it's fine to have anxieties, you're new in this field, everyone isn't born ready. But let's not get too deep with that. Because now we have a set of new tasks waiting to get done.
 
 ### Step 3: Hoarding documentations and references
-In this step, your Dropbox or any cloud service you're using, is probably going to fill up real fast. It's natural, as you start paying attention to the abstract section of your paper, you're going to find yourself 40 tabs deep in Chrome looking for the right journal to be used as references. 
+In this step, your Dropbox or any cloud service you're using, is probably going to fill up real fast. It's natural, as you start paying attention to the abstract section of your paper, you're going to find yourself 40 tabs deep in Chrome looking for the right journal to be used as references. At this point, your head will probably feel the real pressure of reading pages upon pages of journals. Data and graphs just float by and without you realize, it's been five hours since you embark on your search and you haven't found anything that suited your topic.
+
+This is probably the most unprofessional thing I did, because I always expect for everything to work out the way I wanted them, I mean, aren't we all? So I just dive head first into google search and didn't bother refining my research topic.
+
+**Always :clap: refine :clap: your :clap: topic :clap:**
+
+Just because you finally got your topic doesn't mean it's the finish line of your brainstorm session. Be very specific on which aspect you want to focus on with this topic, what's the scope? Know which things you should and shouldn't put in.  
