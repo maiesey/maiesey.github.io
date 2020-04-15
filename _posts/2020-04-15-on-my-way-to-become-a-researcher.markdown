@@ -16,18 +16,26 @@ You might be wondering. *Then why??*. Good question, but sadly I don't have the 
 
 Writing a research paper shouldn't be like this. In fact, it's probably NOT like this. But when you combine an undergraduate student who's neck deep in internship projects and challenges, personal projects or other creative pursuits she somehow still decides to continue and a research topic you've never heard of and had no idea at all about. Things can go haywire, as usual.  
 
-So, here's to the unfolding process of my scientific paper draft (it's still a draft. THANK GOD) which happens in the span of 4 - 5 weeks. Let's dive in.
+So, here's to the unfolding process of my scientific paper draft (it's still a draft. THANK GOD) which happens in the span of 4 - 5 weeks. Let's dive in, you won't believe how chaotic this can be.
 
 ---
 
-### Step 1: No Thoughts, Head Empty
+### Step 1: No thoughts, head empty
 The first few days are going to be very-very...confusing and boring. This step is usually filled with you spamming your professor with ideas pitch of research topic you'd want to do (knowing very well it'll be altered and you won't get the actual topic you want). But pitch them anyway. Obviously, ideas don't just come out of nowhere. You'll probably going to spend a lot of time scrolling through Google Scholar or ResearchGate trying to find references, just for starter.
 
 One thing I can say for sure in this step is to, be patient. Be **very very** patient. Of course, this depends on which professor is assigned to be your supervisor, because, different people, different issues. There'll be professors who are going to reply to your chats/emails almost around a week later, worst case-wise.
 
 After 3 days of just laying on my bed, chatting non-stop with my teammates regarding any new ideas we'd want to pitch and the details (yes, we do this paper in a group format). I finally can enjoy the adrenaline rush when my laptop chimes indicating there's a new inbox in my account. I rushed to my work desk which only takes 3 seconds to get there.
 
-"Research topic decision made for..." it flashes. I couldn't be bothered enough to read the entire title, I immediately clicked the notification and slowly read the content of the email. And surely enough, my smile started to fade too. I leaned back on my chair thinking about how I'm going to break the news to my friends as we hit step 2 --- mass panic.
+"Research topic decision made for...", it flashes. I couldn't be bothered enough to read the entire title, I immediately clicked the notification and slowly read the content of the email. And surely enough, my smile started to fade too. I leaned back on my chair thinking about how I'm going to break the news to my friends as we hit step 2 --- mass panic.
 
 ### Step 2: Panic, anxieties, name 'em
-Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should I find it.
+Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should we make it. We've never even brushed or develop games outside regular mobile/PC games, so you can only understand how the term 'hologram game' is very foreign and out of this world. It's on the same level with "can't make them" and "it's impossible".
+
+You're excited, at least, what's left of them. I mean who doesn't you finally have a clear goal of what you want to build and research on. You can start planning things out, the methods, the references, and actually use them this time. But you're also worried about whether or not you can do this, a lot of negative thoughts flashing in front of you and you start to doubt yourself.
+
+Embrace them.
+This step is probably going to be that one moment you'll always remember when you look back at the process. Tell yourself that it's fine to have anxieties, you're new in this field, everyone isn't born ready. But let's not get too deep with that. Because now we have a set of new tasks waiting to get done.
+
+### Step 3: Hoarding documentations and references
+In this step, your Dropbox or any cloud service you're using, is probably going to fill up real fast. It's natural, as you start paying attention to the abstract section of your paper, you're going to find yourself 40 tabs deep in Chrome looking for the right journal to be used as references. 

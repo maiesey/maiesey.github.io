@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The Last of Finals"
-subtitle:   "The last finals I'll ever do in my life (probably)"
+subtitle:   "The story of my last finals went. Soz."
 date:       2020-02-19 3:50:00
 author:     "MJ"
 header-img: "img/bg-lastfinals.jpg"
