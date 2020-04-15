@@ -42,6 +42,6 @@ In this step, your Dropbox or any cloud service you're using, is probably going 
 
 So, I was just sitting there, in front of my laptop. Eyes sore and heavy. Keep glancing back and forth at the clock, knowing that I can't turn back time to start over. This is probably the most unprofessional thing I did, sadly I learned this the hard way as you can see; because I always expect for everything to work out the way I wanted them, I mean, aren't we all? So I just dive head first into google search and didn't bother refining my research topic.
 
-**Always :clap: refine :clap: your :clap: topic :clap:**
+**Always 👏 refine 👏 your 👏 topic 👏**
 
 Just because you finally got your topic doesn't mean it's the finish line of your brainstorm session. Be very specific on which aspect you want to focus on with this topic, what's the scope? Know which things you should and shouldn't put in, analyze which things can be contradictive with the rest of your writings.
