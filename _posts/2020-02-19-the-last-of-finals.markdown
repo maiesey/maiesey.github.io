@@ -4,7 +4,7 @@ title:      "The Last of Finals"
 subtitle:   "The last finals I'll ever do in my life (probably)"
 date:       2020-02-19 3:50:00
 author:     "MJ"
-header-img: "img/bg-comics.jpg"
+header-img: "img/bg-lastfinals.jpg"
 catalog: true
 tags:
     - college
