@@ -30,7 +30,7 @@ paginate: 6
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+#timezone: CN
 
 
 
@@ -66,7 +66,7 @@ kramdown:
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
@@ -76,9 +76,9 @@ ga_domain: mjee1.github.io
 
 
 # Sidebar settings
-sidebar: true                          
+sidebar: true
 sidebar-about-description: "Self-learning developer and engineer. UI/UX, Machine Learning, games and framework enthusiast. Occasionally an artist. A programmer who loves Snickers and plays The Sims a lot."
-sidebar-avatar: /img/mariajeffina.png   
+sidebar-avatar: /img/mariajeffina.jpg   
 
 
 
