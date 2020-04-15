@@ -10,7 +10,7 @@ tags:
     - college
     - academics
 ---
-As a general disclaimer, I have no idea how to write a **good** scientific paper. I have no idea how to do proper research. So it's really predictable for all of you to know that, yes, I'm very much stressed and feeling pressured with the fact that I have a lot of chapters to bullsh*t through. EXCEPT, I can't really bullsh*t them. It's an actual paper, after all.
+As a general disclaimer, I have no idea how to write a **good** scientific paper. I have no idea how to do proper research. So it's really predictable for all of you to know that, yes, I'm very much stressed and feeling pressured with the fact that I have a lot of chapters to bullsh\*t through. EXCEPT, I can't really bullsh\*t them. It's an actual paper, after all.
 
 You might be wondering. *Then why??*. Good question, but sadly I don't have the answer, apart from this being the only thing standing between me and my undergraduate degree.
 
@@ -30,4 +30,4 @@ After 3 days of just laying on my bed, chatting non-stop with my teammates regar
 "Research topic decision made for..." it flashes. I couldn't be bothered enough to read the entire title, I immediately clicked the notification and slowly read the content of the email. And surely enough, my smile started to fade too. I leaned back on my chair thinking about how I'm going to break the news to my friends as we hit step 2 --- mass panic.
 
 ### Step 2: Panic, anxieties, name 'em
-Predictably, my friends were shocked too. 
+Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should I find it.
