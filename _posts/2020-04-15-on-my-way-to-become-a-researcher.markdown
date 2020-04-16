@@ -30,9 +30,9 @@ After 3 days of just laying on my bed, chatting non-stop with my teammates regar
 "Research topic decision made for...", it flashes. I couldn't be bothered enough to read the entire title, I immediately clicked the notification and slowly read the content of the email. And surely enough, my smile started to fade too. I leaned back on my chair thinking about how I'm going to break the news to my friends as we hit step 2 --- mass panic.
 
 ### Step 2: Panic, anxieties, name 'em
-Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should we make it? We've never even brushed or develop games outside regular mobile/PC games, so you can only understand how the term 'hologram game' is very foreign and out of this world. It's on the same level with "can't make them" and "it's impossible".
+Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should we make it? We've never even touched or developed games outside your regular mobile/PC games, so you can only understand how the term 'hologram game' is very foreign and out of this world. It's on the same level with "can't make them" and "impossible".
 
-You're excited, at least, what's left of them. I mean who doesn't? You finally have a clear goal of what you want to build and research on. You can start planning things out, the methods, the references, and actually use them this time. But you're also worried about whether or not you can do this, a lot of negative thoughts flashing in front of you and you start to doubt yourself.
+But, I am excite, really *really* excited. I mean who doesn't? You finally have a clear goal of what you want to build and research on. You can start planning things out, the methods, the references, and actually use them this time. But you're also worried about whether or not you can do this, a lot of negative thoughts flashing in front of you and you start to doubt yourself.
 
 Embrace them.
 This step is probably going to be that one moment you'll always remember when you look back at the process. Tell yourself that it's fine to have anxieties, you're new in this field, everyone isn't born ready. But let's not get too deep with that. Because now we have a set of new tasks waiting to get done.
@@ -54,3 +54,14 @@ A week has passed since I did the last step. This is the time where it's probabl
 Because most of the time I always find myself staring at my screen, mindlessly looking up additional references on Google Scholar, typing up structures on how you want to lay your paragraphs out, things you want to write down, etc. Checking back and forth with your teammates, asking for second opinions.
 
 In short, the only thing I'm doing at this point is refine, refine, refine. Find out how to form my train of thoughts into words and paragraphs, plus, how to not make them boring, instead make them look elegant (I hope you kinda get the idea).
+
+Not to mention that, yes, while this entire fiasco is happening, I'm being quarantined at home and yet I still have to check in with my office everyday using Zoom for stand-up meetings. So really, the only thing that will be challenging during this step is whatever my office is going to give me.
+
+## Step 5: Remain calm when things go wrong
+Tragedy will strike. It's fine, there's nothing to worry about. Just kidding, please be worried. When something goes wrong, you *definitely* have to do something about it.
+
+Just a quick disclaimer before we dive in. I really despise Unity engine. It's a great engine. I'll give a standing ovation for the developers and the teams who have worked their asses off to develop this engine. Whoever they are.
+
+**Except**, it's a terrible engine; and I don't mean it functionality-wise. I mean it UX-wise. It's really painful to use Unity Collab, it crashes almost every week, especially when you're doing heavy changes on the project. Unity Collab somehow seems to have just *given up*. And one single digit difference in your team's editor version can make the entire project deprecated.
+
+So, I was 9 days deep into writing my papers when one of my teammate told me that he has finished working on the camera setting for the holo-game. This is great, I thought. My teammates and I, we're veterans. We've experienced a painfully huge amount of issues working with Unity; so naturally we just don't want to use any Unity services unless we have to (like packages, and such).
