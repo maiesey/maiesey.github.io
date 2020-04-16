@@ -60,8 +60,8 @@ Not to mention that, yes, while this entire fiasco is happening, I'm being quara
 ## Step 5: Remain calm when things go wrong
 Tragedy will strike. It's fine, there's nothing to worry about. Just kidding, please be worried. When something goes wrong, you *definitely* have to do something about it.
 
-Just a quick disclaimer before we dive in. I really despise Unity engine. It's a great engine. I'll give a standing ovation for the developers and the teams who have worked their asses off to develop this engine. Whoever they are.
+> Just a quick disclaimer before we dive in. I really despise Unity engine. It's a great engine. I'll give a standing ovation for the developers and the teams who have worked their asses off to develop this engine. Whoever they are.
 
-**Except**, it's a terrible engine; and I don't mean it functionality-wise. I mean it UX-wise. It's really painful to use Unity Collab, it crashes almost every week, especially when you're doing heavy changes on the project. Unity Collab somehow seems to have just *given up*. And one single digit difference in your team's editor version can make the entire project deprecated.
+> **Except**, it's a terrible engine; and I don't mean it functionality-wise. I mean it UX-wise. It's really painful to use Unity Collab, it crashes almost every week, especially when you're doing heavy changes on the project. Unity Collab somehow seems to have just *given up*. And one single digit difference in your team's editor version can make the entire project deprecated.
 
 So, I was 9 days deep into writing my papers when one of my teammate told me that he has finished working on the camera setting for the holo-game. This is great, I thought. My teammates and I, we're veterans. We've experienced a painfully huge amount of issues working with Unity; so naturally we just don't want to use any Unity services unless we have to (like packages, and such).
