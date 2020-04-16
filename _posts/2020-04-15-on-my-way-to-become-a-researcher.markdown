@@ -46,4 +46,11 @@ So, I was just sitting there, in front of my laptop. Eyes sore and heavy. Keep g
 
 **Always 👏 refine 👏 your 👏 topic 👏**
 
-Just because you finally got your topic doesn't mean it's the finish line of your brainstorm session. Be very specific on which aspect you want to focus on with this topic, what's the scope? Know which things you should and shouldn't put in, analyze which things can be contradictive with the rest of your writings.
+Just because you finally got your topic doesn't mean it's the finish line of your brainstorm session. Be very specific on which aspect you want to focus on with this topic, what's the scope? Know which things you should and shouldn't put in, analyze which things can be contradictive with the rest of your writings. Because you'll be grateful for this as we continue on to step 4.
+
+## Step 4: All time low
+A week has passed since I did the last step. This is the time where it's probably going to be the most boring period of the entire span of 4 weeks planning this out. Just like the title said, all time low.
+
+Because most of the time I always find myself staring at my screen, mindlessly looking up additional references on Google Scholar, typing up structures on how you want to lay your paragraphs out, things you want to write down, etc. Checking back and forth with your teammates, asking for second opinions.
+
+In short, the only thing I'm doing at this point is refine, refine, refine. Find out how to form my train of thoughts into words and paragraphs, plus, how to not make them boring, instead make them look elegant (I hope you kinda get the idea).
