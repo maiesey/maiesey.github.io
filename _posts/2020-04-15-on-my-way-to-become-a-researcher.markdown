@@ -40,6 +40,8 @@ This step is probably going to be that one moment you'll always remember when yo
 ### Step 3: Hoarding documentations and references
 In this step, your Dropbox or any cloud service you're using, is probably going to fill up real fast. It's natural, as you start paying attention to the abstract section of your paper, you're going to find yourself 40 tabs deep in Chrome looking for the right journals to be used as references. At this point, your head will probably feel the real pressure of reading pages upon pages of journals. Data and graphs just float by and without you realize, it's been five hours since you embark on your search and you haven't found anything that suited your topic.
 
+![](/img/in-post/post-skripsi-doc.JPEG)
+
 So, I was just sitting there, in front of my laptop. Eyes sore and heavy. Keep glancing back and forth at the clock, knowing that I can't turn back time to start over. This is probably the most unprofessional thing I did, sadly I learned this the hard way as you can see; because I always expect for everything to work out the way I wanted them, I mean, aren't we all? So I just dive head first into google search and didn't bother refining my research topic.
 
 **Always 👏 refine 👏 your 👏 topic 👏**
