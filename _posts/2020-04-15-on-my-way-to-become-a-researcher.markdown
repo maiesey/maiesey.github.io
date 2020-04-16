@@ -30,15 +30,15 @@ After 3 days of just laying on my bed, chatting non-stop with my teammates regar
 "Research topic decision made for...", it flashes. I couldn't be bothered enough to read the entire title, I immediately clicked the notification and slowly read the content of the email. And surely enough, my smile started to fade too. I leaned back on my chair thinking about how I'm going to break the news to my friends as we hit step 2 --- mass panic.
 
 ### Step 2: Panic, anxieties, name 'em
-Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should we make it. We've never even brushed or develop games outside regular mobile/PC games, so you can only understand how the term 'hologram game' is very foreign and out of this world. It's on the same level with "can't make them" and "it's impossible".
+Predictably, my friends were shocked too. Who would've thought that we had to make a hologram game? What the heck is a hologram game and how should we make it? We've never even brushed or develop games outside regular mobile/PC games, so you can only understand how the term 'hologram game' is very foreign and out of this world. It's on the same level with "can't make them" and "it's impossible".
 
-You're excited, at least, what's left of them. I mean who doesn't you finally have a clear goal of what you want to build and research on. You can start planning things out, the methods, the references, and actually use them this time. But you're also worried about whether or not you can do this, a lot of negative thoughts flashing in front of you and you start to doubt yourself.
+You're excited, at least, what's left of them. I mean who doesn't? You finally have a clear goal of what you want to build and research on. You can start planning things out, the methods, the references, and actually use them this time. But you're also worried about whether or not you can do this, a lot of negative thoughts flashing in front of you and you start to doubt yourself.
 
 Embrace them.
 This step is probably going to be that one moment you'll always remember when you look back at the process. Tell yourself that it's fine to have anxieties, you're new in this field, everyone isn't born ready. But let's not get too deep with that. Because now we have a set of new tasks waiting to get done.
 
 ### Step 3: Hoarding documentations and references
-In this step, your Dropbox or any cloud service you're using, is probably going to fill up real fast. It's natural, as you start paying attention to the abstract section of your paper, you're going to find yourself 40 tabs deep in Chrome looking for the right journals to be used as references. At this point, your head will probably feel the real pressure of reading pages upon pages of journals. Data and graphs just float by and without you realize, it's been five hours since you embark on your search and you haven't found anything that suited your topic.
+In this step, your Dropbox or any cloud service you're using, is probably going to fill up real fast. It's natural, as you start paying attention to the abstract section of your paper, you're going to find yourself 40 tabs deep in Chrome looking for the right journals to be used as references. At this point, your head will probably feel the real pressure of reading pages upon pages of journals. Data and graphs just float by and without you realizing, it's been five hours since you embark on your search and you haven't found anything that suited your topic.
 
 ![](/img/in-post/post-skripsi-doc.JPEG)
 
