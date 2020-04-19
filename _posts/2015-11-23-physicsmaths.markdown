@@ -10,6 +10,7 @@ tags:
     - high school
     - olympiads
     - academics
+    - personal
 ---
 Not going to lie, I low-key was thinking about blindly pick on them.
 

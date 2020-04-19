@@ -10,6 +10,7 @@ tags:
     - high school
     - olympiads
     - academics
+    - personal
 ---
 #####  This is going to be a short one. #####
 

@@ -9,6 +9,7 @@ catalog: true
 tags:
     - high school
     - debating
+    - personal
 ---
 I just recently took an interest towards my debating club. I've been inactive these past few months, but I finally got the entire mood and adrenaline of debating running in my veins again that I am bold enough to turn this into a blog post.
 

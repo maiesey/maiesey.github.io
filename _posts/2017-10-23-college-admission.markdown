@@ -7,9 +7,9 @@ author:     "Jeffina"
 header-img: "img/bg-college-ads.jpg"
 catalog: true
 tags:
-    - high school
-    - college
+    - life update
     - academics
+    - personal
 ---
 **This post is going to be updated in stages because what will happen here, can stretch out up to 6 months.** Now, although national examinations and other finals are done. I have other matters to take care of, which is: 🌈 **College Admissions** 🌈.
 

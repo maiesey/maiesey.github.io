@@ -8,6 +8,7 @@ header-img: "img/bg-research.jpg"
 catalog: true
 tags:
     - personal
+    - life update
 ---
 
 > Woohoo, look at me, two posts in a week! What a productive moment of my life (lmaoo).
@@ -42,6 +43,6 @@ Now that we've got that out of the way, let's talk about the future, of what I t
 
 I'm going to make a whole lot of side projects regarding useful things that I really love, that aren't being taught **EVER** by my professors, such as software development, artificial intelligence, AR/VR, UI/UX, etc. Think of it as me catching up with the industry in my own pace. I've decided that in the future I want to be a UI Engineer or a UX Engineer. So I'm going to start learning required knowledge regarding that field through my connections and the internet.
 
-I was also thinking about making this website more useful, so instead of just me posting random and dumbass posts here, I can make logs about my projects, logs about new things I learned during my time interning at Apple or during my self-learning session. 
+I was also thinking about making this website more useful, so instead of just me posting random and dumbass posts here, I can make logs about my projects (I have a ton of ideas in mind), logs about new things I learned during my time interning at Apple or during my self-learning session.
 
 Seems fun?

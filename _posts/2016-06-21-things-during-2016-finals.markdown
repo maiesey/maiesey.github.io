@@ -8,7 +8,7 @@ header-img: "img/in-post/bizarrethings.jpg"
 catalog: false
 tags:
     - high school
-    - rant
+    - personal
 ---
 I know I complained a lot about the so-called 'education system' here in my high school. But, there's nothing that can quite beat these crazy things, which I myself don't even believe that they happened, right here, in my high school, during this year's Finals. By the time I'm writing this, finals are over and we're currently in our "summer but not really (since we only have two seasons)" vacation.
 

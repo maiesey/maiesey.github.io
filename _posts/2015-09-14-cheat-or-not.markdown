@@ -8,8 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: false
 tags:
     - high school
-    - rant
-    - life experience
+    - personal
     - academics
 ---
 

@@ -9,6 +9,7 @@ catalog: true
 tags:
     - college
     - academics
+    - project
 ---
 As a general disclaimer, I have no idea how to write a **good** scientific paper. I have no idea how to do proper research. So it's really predictable for all of you to know that, yes, I'm very much stressed and feeling pressured with the fact that I have a lot of chapters to bullsh\*t through. EXCEPT, I can't really bullsh\*t them. It's an actual paper, after all.
 

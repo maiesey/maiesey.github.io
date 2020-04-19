@@ -7,8 +7,7 @@ author:     "Jeffina"
 header-img: "img/bg-tv-shows.jpg"
 catalog: true
 tags:
-    - hobbies
-    - list
+    - personal
 ---
 Well this is a different type of post altogether. Ever since college started, classes aren't always exactly 7 - 5. I always have some free time here and there, squeezed in between classes. Those are the perfect time to also squeeze in one or two episodes of my favorite show!
 

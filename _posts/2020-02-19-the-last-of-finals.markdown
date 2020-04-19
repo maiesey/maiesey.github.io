@@ -9,6 +9,7 @@ catalog: true
 tags:
     - college
     - academics
+    - personal
 ---
 I am so happy! But also kind of sad. I guess I could say that I'm overwhelmed by emotions. This is the last finals I'll ever have to do in my undergraduate studies. I'll never have to go back to doing Quizlet and staying late with my friends, video calling together on Discord trying to quiz each other. I'll never have to wake up at 4AM trying to cram in the last bit of information I needed---or at least I think I needed it---into my brain. I'll never have to experience exam anxiety ever again! Woohoo!
 

@@ -9,7 +9,8 @@ catalog: true
 tags:
     - college
     - academics
-    - recap
+    - life update
+    - personal
 ---
 Whoop, look at me. Haven't really blogged in nearly a year! To be honest, I'm surprised that I still remember that I have this blog lol. But, here I am ready to share some of the craziest and nastiest things that happened during my freshmen year. It has been a wild ride, really. With me trying to balance my academics and social lives while also living the dream --commuting for nearly 2 hours everyday. Wow, sarcasm. So these are some things that I found out about college, some weird and cool experiences I've had.
 
