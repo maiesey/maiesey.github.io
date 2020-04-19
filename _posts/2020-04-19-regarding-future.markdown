@@ -4,7 +4,7 @@ title:      "A shower thought..."
 subtitle:   "regarding future."
 date:       2020-04-19 3:50:00
 author:     "maie"
-header-img: "img/post-regarding-future.jpg"
+header-img: "img/pos-regarding-future.jpg"
 catalog: true
 tags:
     - personal
