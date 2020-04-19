@@ -41,7 +41,7 @@ Throw away the concept of time framing altogether. If you don't get the internsh
 
 Now that we've got that out of the way, let's talk about the future, of what I think I want to be. I'm still searching, so please be gentle :"D. I'm as confused as anyone else.
 
-I'm going to make a whole lot of side projects regarding useful things that I really love, that aren't being taught **EVER** by my professors, such as software development, artificial intelligence, AR/VR, UI/UX, etc. Think of it as me catching up with the industry in my own pace. I've decided that in the future I want to be a UI Engineer or a UX Engineer. So I'm going to start learning required knowledge regarding that field through my connections and the internet.
+I'm going to make a whole lot of side projects regarding useful things that I really love, that aren't being taught **EVER** by my professors, such as software development, artificial intelligence, AR/VR, UI/UX, etc. Think of it as me catching up with the industry in my own pace. I've decided that in the future I want to be a UI Engineer or a UX Engineer. So I'm going to start learning all of the required knowledge regarding that field through my connections and the internet.
 
 I was also thinking about making this website more useful, so instead of just me posting random and dumbass posts here, I can make logs about my projects (I have a ton of ideas in mind), logs about new things I learned during my time interning at Apple or during my self-learning session.
 
