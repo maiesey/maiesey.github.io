@@ -3,7 +3,7 @@ layout:     post
 title:      "PSDC 2016"
 subtitle:   "\"Provincial School Debate Competition is so memeable\" - Claire 2016"
 date:       2016-11-05 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/post-bg-debate.jpg"
 catalog: true
 tags:

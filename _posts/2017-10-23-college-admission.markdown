@@ -3,7 +3,7 @@ layout:     post
 title:      "College Admissions"
 subtitle:   "A journey through welcoming a new chapter of my life"
 date:       2017-10-23 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/bg-college-ads.jpg"
 catalog: true
 tags:

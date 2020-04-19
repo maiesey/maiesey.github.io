@@ -3,7 +3,7 @@ layout:     post
 title:      "A Dilemma: physics team or maths team?"
 subtitle:   "In which my high school 'forced' me to choose a side for the olympiads"
 date:       2015-11-23 12:00:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/post-bg-physicsmaths.jpg"
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "On My Way Becoming A Researcher (but not really)"
 subtitle:   "Embark on a journey with me writing my very first scientific paper draft"
 date:       2020-04-17 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/bg-research.jpg"
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "Freshmen Year Done Right?"
 subtitle:   "A recap of my freshmen year in college"
 date:       2018-06-27 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/bg-freshmen-year.jpg"
 catalog: true
 tags:

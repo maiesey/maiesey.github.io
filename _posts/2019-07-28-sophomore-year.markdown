@@ -3,7 +3,7 @@ layout:     post
 title:      "Sophomore Year: Here's To Growth"
 subtitle:   "Recap of my Sophomore Year"
 date:       2019-07-28 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "/img/bg-sophomore.jpg"
 catalog: true
 tags:

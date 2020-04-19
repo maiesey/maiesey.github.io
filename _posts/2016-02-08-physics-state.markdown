@@ -3,7 +3,7 @@ layout:     post
 title:      "Physics Olympiad: do we get in?"
 subtitle:   "Lots of hugs, coffee and comfort"
 date:       2016-02-08 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/post-bg-physics-state.jpg"
 catalog: false
 tags:

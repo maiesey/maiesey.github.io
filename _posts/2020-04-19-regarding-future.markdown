@@ -3,7 +3,7 @@ layout:     post
 title:      "A shower thought..."
 subtitle:   "regarding future."
 date:       2020-04-19 3:50:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/post-regarding-future.jpg"
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "High School: to cheat or not to cheat?"
 subtitle:   "A recap of the (mid)year"
 date:       2015-09-14 12:00:00
-author:     "Jeffina"
+author:     "maie"
 header-img: "img/post-bg-2015.jpg"
 catalog: false
 tags:
