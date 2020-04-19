@@ -3,7 +3,7 @@ layout:     post
 title:      "Sophomore Year: Here's To Growth"
 subtitle:   "Recap of my Sophomore Year"
 date:       2019-07-28 3:50:00
-author:     "MJ"
+author:     "Jeffina"
 header-img: "/img/bg-sophomore.jpg"
 catalog: true
 tags:
@@ -16,12 +16,12 @@ Is this blog going to get annually updated or what? I have no idea. But, sophomo
 All in all, I'd say that this year is that **one** very chaotic year. Classes were hard as hell, the professors also weren't being helpful either, I had tons of freelance project piling up, competitions lining up, and in the midst of it all, I got an elightment for my future--becoming a researcher (told you, very chaotic).
 
 ### 1. Labs Are A New Type of Hell
-Now, I've had labs before my sophomore year, but this year's labs are pretty much come as a shock. Labs in my freshmen year were very chill: no projects, no challenges, not even a PSet, just study sessions. So when this year's labs got me 5 projects (one of them wants us to submit a Devlog every week), I was *shooketh*. In other words, I was overwhelmed. Some of these projects are also quite mindblowing--scale-wise. 
+Now, I've had labs before my sophomore year, but this year's labs are pretty much come as a shock. Labs in my freshmen year were very chill: no projects, no challenges, not even a PSet, just study sessions. So when this year's labs got me 5 projects (one of them wants us to submit a Devlog every week), I was *shooketh*. In other words, I was overwhelmed. Some of these projects are also quite mindblowing--scale-wise.
 
 Create your first game with a unique mechanic, make a storyboard, and an artbook, participate in ICPC and must successfully answer at least one question, and a bunch of other things. At that moment, I realized, this is what college really is like. Freshmen year is just a facade.
 
 ### 2. Study Groups Are Really F*cking Important
-If I remember correctly, I said something about finding your passion outside classes and join their communities. This is also true for classes. Befriend anyone who understands the materials well, motivated to learn them, pay attention for the entire class sessions, and so on. Because when it's exam periods, you'd want to have someone competence enough to back you up if you have any questions. 
+If I remember correctly, I said something about finding your passion outside classes and join their communities. This is also true for classes. Befriend anyone who understands the materials well, motivated to learn them, pay attention for the entire class sessions, and so on. Because when it's exam periods, you'd want to have someone competence enough to back you up if you have any questions.
 
 I usually have different study groups for each class. This is actually really cool, because I get to teach my study friends who aren't in my study group for a certain class and we can all learn from each other! Exchanging informations, PSets (typically different professors will give different PSets) so we get to have more study resources!
 
@@ -33,7 +33,7 @@ Then I realized that I don't really need bullet journal that much (not that I'm 
 It becomes so useful when you have 5 projects due at the same week, with exams looming around, competitions' projects waiting to be finished and lots of other demanding club activities (meetings, project planning, paperworks, etc).
 
 ### 4. Study Hard, But Take Timeouts
-A lot of people prefer to have study breaks, but I personally can't live with the guilty feeling of 'abandoning' my studies when I haven't really master the materials. So I always have a study period: I'd study for 8 hours (let's say because I have an exam tomorrow, I don't usually study that long on daily basis lols), then I'll have 2 hours of study break, just doing mundane things (updating my journal, eat, reading one chapter of a book, etc.). 
+A lot of people prefer to have study breaks, but I personally can't live with the guilty feeling of 'abandoning' my studies when I haven't really master the materials. So I always have a study period: I'd study for 8 hours (let's say because I have an exam tomorrow, I don't usually study that long on daily basis lols), then I'll have 2 hours of study break, just doing mundane things (updating my journal, eat, reading one chapter of a book, etc.).
 
 But, before I go into my study break period, I want to take 30 minutes to review everything I have learned during my study period, making sure I understand everything before I chill. If I hit walls or anything on a certain material, I'll mark it and then study them on my next study session!
 

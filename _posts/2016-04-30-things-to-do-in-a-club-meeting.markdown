@@ -3,7 +3,7 @@ layout:     post
 title:      "Things To Do In A Debate Club Gathering"
 subtitle:   "Spoiler: memes and gossips (well, not really)"
 date:       2016-03-18 14:50:00
-author:     "MJ"
+author:     "Jeffina"
 header-img: "img/post-bg-thingstodoinaclubgathering.jpg"
 catalog: true
 tags:
