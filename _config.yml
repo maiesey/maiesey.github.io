@@ -1,6 +1,6 @@
 # Site settings
-title: Maria Jeffina
-SEOTitle: Starkydev | A blog by Maria Jeffina
+title: maiesey
+SEOTitle: maiesey | A blog
 header-img: img/home-bg.jpg
 email: mariajeffina@gmail.com
 description: ""
@@ -13,12 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username:     huxpro
-# zhihu_username:     huxpro
-github_username:    mjee1
+github_username:    maiesey
 twitter_username:   mjee551
 #facebook_username:  huxpro
-linkedin_username:  mariajeffina
+#linkedin_username:  mariajeffina
 
 
 
@@ -71,14 +69,14 @@ kramdown:
 
 # Google Analytics
 ga_track_id: 'UA-157997279-1'            # Format: UA-xxxxxx-xx
-ga_domain: mjee1.github.io
+ga_domain: maiesey.github.io
 
 
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "Self-learning developer and engineer. UI/UX, Machine Learning, games and framework enthusiast. Occasionally an artist. A programmer who loves Snickers and plays The Sims a lot."
-sidebar-avatar: /img/mariajeffina.jpg   
+sidebar-about-description: "Self-learning developer and engineer. UI/UX, Machine Learning, games and movies enthusiast. Occasionally an artist."
+sidebar-avatar: /img/mariajeffina.jpg
 
 
 
