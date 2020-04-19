@@ -39,7 +39,7 @@ But never, I mean **never**, worried about where you *have* to be next year in o
 
 Throw away the concept of time framing altogether. If you don't get the internship next summer, it's fine, because you've never set that as a goal anyway. But if you think you've done everything in order to get a Google internship but you still didn't get it for three years in a row, that means you haven't done everything.
 
-Now that we've got that out of the way, let's talk about the future, of what I think I want to be. I'm still searching, so be gentle, bro.
+Now that we've got that out of the way, let's talk about the future, of what I think I want to be. I'm still searching, so please be gentle :"D. I'm as confused as anyone else.
 
 I'm going to make a whole lot of side projects regarding useful things that I really love, that aren't being taught **EVER** by my professors, such as software development, artificial intelligence, AR/VR, UI/UX, etc. Think of it as me catching up with the industry in my own pace. I've decided that in the future I want to be a UI Engineer or a UX Engineer. So I'm going to start learning required knowledge regarding that field through my connections and the internet.
 
