@@ -4,7 +4,7 @@ title:      "A shower thought..."
 subtitle:   "regarding future."
 date:       2020-04-19 3:50:00
 author:     "Jeffina"
-header-img: "img/bg-research.jpg"
+header-img: "img/post-regarding-future.jpg"
 catalog: true
 tags:
     - personal
@@ -35,9 +35,9 @@ So now that I've realized this. What's changed? I understand now that blaming th
 
 The thought of me not having to worry where I'll be 10 years in the future is so relieving. I can just follow my passion and let the future decide who I'm going to be. But this doesn't mean that I don't have to have dreams or goals. Somebody once told me to "always start with the end in mind". Always have goals on what you want to be in the end, a game designer? A software engineer? An astronaut? Whoever.
 
-But never, I mean **never**, worried about where you *have* to be next year in order to reach your goal. Just keep focusing on what you *need to do* to get there. Instead of saying, "I'm going to intern at Google next summer", say something like, "in order for me to get an internship at Google, I need to do...".
+But never, I mean **never**, worried about where you *have* to be next year in order to reach your goal. Just keep focusing on what you *need to do* to get there. Instead of saying, "I'm going to intern at Google next summer", say something like, "I want to become a good software engineer, I realized that getting an internship at Google will be useful".
 
-Throw away the timeframe altogether. If you don't get the internship next summer, it's fine, because you've never set that as a goal anyway. But if you think you've done everything in order to get a Google internship but you still didn't get it for three years in a row, that means you haven't done everything.
+Throw away the concept of time framing altogether. If you don't get the internship next summer, it's fine, because you've never set that as a goal anyway. But if you think you've done everything in order to get a Google internship but you still didn't get it for three years in a row, that means you haven't done everything.
 
 Now that we've got that out of the way, let's talk about the future, of what I think I want to be. I'm still searching, so be gentle, bro.
 
