@@ -2,7 +2,7 @@
 layout:     post
 title:      "iOS Development: Petters"
 subtitle:   "An ios caretaker app build for pet owners"
-date:       2015-09-14 12:00:00
+date:       2020-04-21 12:00:00
 author:     "maie"
 header-img: "img/post-bg-2015.jpg"
 catalog: false
@@ -10,24 +10,25 @@ tags:
     - project
     - ios development
 ---
- #### Finally a project!
+
+#### Finally a project!
 
  This blog post will act as a sort of devlog for this project. I will post updates and progress of the project. What I'm currently doing, down to specific design decision and technical difficulties + solutions (if I found 'em), because YES I'm happy to announce that I'm going to lead this project on both design and technical just so that I can challenge myself (plus, I consider myself a developer not a programmer).
 
  Oh and the name of the project is not fixed and can change in the future unless stated otherwise.
 
 ---
- ### Description
+### Description
  "Petters" in an app build specifically for pet owners, especially those who own a lot of pets (like me. soz.). Petters will give reminders to the users regarding their pets' eating schedules and daily routines (such as what time they should take a walk, what time they usually fall asleep) in hope that once you're deep in your works, you won't forget to take care of your loyal friends!
 
- #### Reason
+#### Reason
  This app is build based on personal experience and others too. I interviewed some of my friends who own like... extremely abundance amount of pets (we're talking like more than 4 dogs or 5 cats).
 
  They always found themselves, at some point, neglecting their pets' needs which resulted to unorganized eating schedules of their furry friends and other things. This is usually caused by equally abundance amount of work the owners have to get done that day, and they also usually live alone without anyone to help them manage the household.
 
 ---
- ### Logs
- #### April 20, 2020
+### Logs
+#### April 20, 2020
  I've finally managed to get this project started. I kicked off the project with lo-fi wireframing activity. This includes me, browsing through Dribbble or Behance or any UI inspiration instagram accounts for that matter, to search and look for well, inspirations as to what my interface is going to look like.
 
  I also wrote the functionalities my app will have in my notebook just so I can have a glimpse as to what kind of screen I'm going to design.
@@ -40,4 +41,4 @@ tags:
 
  Once I'm sure my lo-fi wireframe is good to go, I moved on to hi-fi wireframing. Wow, I know, I know, too fast. But it was only a couple of screens just to test out and see how my design is going to look like; the color combinations, the fonts (it's not a prototype after all).
 
- ##### Stay tune for future updates !
+##### Stay tune for future updates !
